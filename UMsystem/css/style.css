@@ -1,0 +1,13 @@
+body{
+	margin:auto;
+	
+}
+table{
+	
+	display:flex;
+	justify-content:center;
+}
+input{
+	border:green 1px solid;
+	
+}
